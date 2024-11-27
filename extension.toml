@@ -1,0 +1,11 @@
+id = "fh-zed"
+name = "FastHTML in Zed"
+description = "FastHTML syntax highlighter with Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Frederik larsen <frlars21@student.aau.dk>"]
+repository = "https://github.com/FrLars21/fh-zed"
+
+[grammars.python]
+repository = "https://github.com/tree-sitter/tree-sitter-python"
+commit = "1538ca124d30ffed072d51c41e5b75558b6ebbfe"
